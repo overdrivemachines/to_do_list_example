@@ -60,3 +60,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Generate fake data such as names, addresses, and phone numbers
 gem 'faker'
+
+# Order Tasks
+gem 'acts_as_list'
